@@ -8,6 +8,10 @@
 
 <img src="https://github.com/Nischay912/Nischay912/raw/main/git-banner.gif" alt="Banner" width="100%" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+</p>
+
 ---
 
 ## 🚀 About Me  
@@ -15,6 +19,12 @@
 - ⚙️ Interested in Full Stack Development & DevOps  
 - 🌱 Continuously exploring new technologies  
 - 🎯 Focused on clean, maintainable code  
+
+<p align="center">
+  <a href="https://nischay-kumar.netlify.app/">
+    <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-00CFFF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
@@ -64,31 +74,34 @@
 
 > ## Frontend
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
 > ## App Development
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=react,ts" />
+<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo"/>
 </p>
 
 > ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="45" /></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 > ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" /></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+</p>
 
 > ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="45" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="45" /></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" />
+</p>
 
 > ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="45" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="45" /></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vite" />
+</p>
 
 > ## Advanced Stack
 <p align="center">
