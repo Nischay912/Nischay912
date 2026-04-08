@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-black?style=for-the-badge&logo=vercel" />
+  <b>🚀 Click below to view my portfolio</b><br/><br/>
+  <a href="https://nischay-kumar.netlify.app/">
+    <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
