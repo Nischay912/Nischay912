@@ -1,3 +1,5 @@
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/banner.gif" width="100%" />
+
 # 👋 Hi, I'm Nischay Kumar
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;DevOps+Learner;Building+Epi-Tracker" />
