@@ -60,12 +60,13 @@
 
 ## 📊 GitHub Stats  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nischay912&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nischay912&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nischay912&layout=compact&theme=tokyonight" height="170" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nischay912&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nischay912&theme=tokyonight" height="170" />
 </p>
 
 ---
