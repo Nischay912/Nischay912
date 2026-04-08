@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 </p>
 
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me  
