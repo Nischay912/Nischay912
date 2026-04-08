@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nischay912&color=blue&style=flat-square" />
+</p>
+
+<p align="center">
   <b>🚀 Click below to view my portfolio</b><br/><br/>
   <a href="https://nischay-kumar.netlify.app/">
     <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -59,28 +63,29 @@
 ---
 
 ## 🐍 Contribution Animation  
-<img src="https://github.com/Nischay912/Nischay912/blob/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://github.com/Nischay912/Nischay912/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nischay912" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nischay912&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/nischay-kumar-0912nt1810/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
 ---
-
-## 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nischay912&color=blue" />
-</p>
