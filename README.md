@@ -1,4 +1,6 @@
-<img src="https://github.com/Nischay912/Nischay912/raw/main/git-banner.gif" width="100%" />
+<p align="center">
+  <img src="https://github.com/Nischay912/Nischay912/raw/main/git-banner.gif" width="100%" height="300px" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Nischay Kumar</h1>
 
@@ -29,9 +31,9 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,nodejs,express" />
 
 ### 📱 App Development  
-<img src="https://skillicons.dev/icons?i=react" /> 
-<img src="https://skillicons.dev/icons?i=typescript" />  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=react,typescript" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ### 🧠 Programming Languages  
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c" />
@@ -62,7 +64,10 @@
 ---
 
 ## 🏆 Achievements  
-<img src="https://github-profile-trophy.vercel.app/?username=Nischay912&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nischay912&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
