@@ -1,4 +1,4 @@
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/banner.gif" width="100%" />
+<img src="https://github.com/Nischay912/Nischay912/raw/main/git-banner.gif" width="100%" />
 
 # 👋 Hi, I'm Nischay Kumar
 
