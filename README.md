@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nischay912&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Nischay912&style=flat-square" />
 </p>
 
 <p align="center">
@@ -24,26 +24,41 @@
 ## 🚀 About Me  
 - 💻 Passionate about building scalable and efficient applications  
 - ⚙️ Interested in Full Stack Development & DevOps  
-- 🌱 Continuously exploring new technologies and tools  
-- 🎯 Focused on writing clean, maintainable code  
+- 🌱 Continuously exploring new technologies  
+- 🎯 Focused on clean, maintainable code  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### 🌐 Web Development  
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,nodejs,express" />
+</p>
 
 ### 📱 App Development  
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,typescript" />
 <br/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo" />
+</p>
 
 ### 🧠 Programming Languages  
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c" />
+</p>
 
-### ⚙️ Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,mongodb,mysql,linux,vscode,postman" />
+---
+
+## ⚡ Dev Toolkit (Advanced)  
+
+<p align="center">
+<img src="https://img.shields.io/badge/Clerk-3B49DF?style=for-the-badge&logo=clerk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/bcrypt-FFCA28?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -69,23 +84,13 @@
 
 ---
 
-## 🏆 Achievements  
+## 🌐 Connect  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nischay912&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/YOUR_LINK">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://nischay-kumar.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
-
----
