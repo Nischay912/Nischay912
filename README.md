@@ -32,41 +32,39 @@
 ## 🛠️ Tech Stack  
 
 ### 🌐 Web Development  
-<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs,nodejs,express" />
-</p>
 
 ### 📱 App Development  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,typescript" />
+<img src="https://skillicons.dev/icons?i=react,js,typescript" />
 <br/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo" />
-</p>
 
 ### 🧠 Programming Languages  
-<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c" />
-</p>
 
 ---
 
-## ⚡ Dev Toolkit (Advanced)  
+### ⚡ Dev Toolkit  
 
-<p align="center">
-<img src="https://img.shields.io/badge/Clerk-3B49DF?style=for-the-badge&logo=clerk&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,typescript" />
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo"/>
+<img src="https://img.shields.io/badge/Clerk-3B49DF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
 <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/bcrypt-FFCA28?style=for-the-badge"/>
-</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Nischay912&show_icons=true&theme=tokyonight" />
-  <br/>
+</p>
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nischay912&theme=tokyonight" />
 </p>
 
